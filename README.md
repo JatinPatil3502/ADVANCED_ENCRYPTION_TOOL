@@ -24,6 +24,4 @@ Built with Tkinter for a smooth and accessible experience
 Requirements
 Before running the tool, make sure the required Python package is installed:
 
-# bash
-# Copy code
 # pip install cryptography
